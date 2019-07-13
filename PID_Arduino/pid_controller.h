@@ -1,3 +1,12 @@
+/*
+ ******************************************************************
+ * Arduino PID Library
+ * Author: Paulo Bonfim @git: https://github.com/PauloJr05
+ * Version: 1.0.0	
+ * Date: 12/jul/2019
+ ******************************************************************
+ */
+
 #ifndef pid_controller_h
 #define pid_controller_h
 
