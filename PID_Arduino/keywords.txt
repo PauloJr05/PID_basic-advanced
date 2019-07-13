@@ -1,0 +1,8 @@
+PID	KEYWORD1
+compute 	KEYWORD2
+tune	KEYWORD2
+reset   KEYWORD2
+get_Kp KEYWORD2
+get_Ki KEYWORD2
+get_Kd KEYWORD2
+get_direction KEYWORD2
