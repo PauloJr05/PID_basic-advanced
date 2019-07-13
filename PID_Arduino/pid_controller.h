@@ -4,6 +4,7 @@
  * Author: Paulo Bonfim @git: https://github.com/PauloJr05
  * Version: 1.0.0	
  * Date: 12/jul/2019
+ * GNU General Public License
  ******************************************************************
  */
 
