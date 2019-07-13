@@ -1,4 +1,4 @@
-/*Autor: Paulo Bonfim @git: 
+/*Autor: Paulo Bonfim @git: https://github.com/PauloJr05
   Versão: 1.0.0	
   Data: 12/jul/2019
 */
